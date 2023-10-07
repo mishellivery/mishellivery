@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @mishellivery
+Hello!
+
+- 👋 I’m @mishellivery
 - 👀 I’m interested in learning coding
 - 🌱 I’m currently learning Python
 
